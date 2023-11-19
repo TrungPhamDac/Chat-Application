@@ -1,0 +1,60 @@
+Accepted - 127.0.0.1:42650
+127.0.0.1:42650: hello, anyone?
+Accepted - 127.0.0.1:42652
+127.0.0.1:42652: yeah
+127.0.0.1:42652: meet you again
+Accepted - 127.0.0.1:42654
+127.0.0.1:42654: i'm here
+127.0.0.1:42650: how r you today?
+127.0.0.1:42650: I'm feel good
+127.0.0.1:42650: maybe 
+127.0.0.1:42652: same
+127.0.0.1:42654: so
+127.0.0.1:42654: Wanna hang out?
+127.0.0.1:42650: Let me think
+127.0.0.1:42650: it's a good idea
+127.0.0.1:42650: I haven't 
+127.0.0.1:42650: I haven't gone out for a long time
+127.0.0.1:42650: I'm learning very hard
+127.0.0.1:42652: for what?
+127.0.0.1:42654: hmm?
+127.0.0.1:42652: tell me
+127.0.0.1:42650: I'm try to get a job
+127.0.0.1:42652: oh, you'll have a job
+127.0.0.1:42654: yeah
+127.0.0.1:42654: I trust you
+127.0.0.1:42654: U r very smart
+127.0.0.1:42654: be strong
+127.0.0.1:42654: you can go it man
+127.0.0.1:42650: thank you man
+127.0.0.1:42650: oh
+127.0.0.1:42650: what did we day?
+127.0.0.1:42650: say
+127.0.0.1:42650: hang out?
+127.0.0.1:42652: haha
+127.0.0.1:42652: I'll be free at 7h
+127.0.0.1:42654: whenever
+127.0.0.1:42650: so, let meet at 7h
+127.0.0.1:42650: Rekal Coffee
+127.0.0.1:42650: I used to be there
+127.0.0.1:42650: good drink,snack and music
+Accepted - 127.0.0.1:42660
+127.0.0.1:42654: here you r
+127.0.0.1:42654: long time no see
+127.0.0.1:42660: hahaha
+127.0.0.1:42660: how is going
+127.0.0.1:42660: i was busy
+127.0.0.1:42660: now, I feel free
+127.0.0.1:42660: Seem that you guys will have a meeting coffee tonight?
+127.0.0.1:42650: yeah, wanna join us?
+127.0.0.1:42660: why not
+127.0.0.1:42660: I haven't met you guys for a long time
+127.0.0.1:42652: 7h 
+127.0.0.1:42652: to night
+127.0.0.1:42652: dont be late
+127.0.0.1:42652: now I have work to do
+127.0.0.1:42654: ok
+127.0.0.1:42654: me too
+127.0.0.1:42650: OK, bye
+127.0.0.1:42650: let meet at 7h Rekal coffe
+127.0.0.1:42660: ok
